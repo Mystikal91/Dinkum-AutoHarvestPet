@@ -3,7 +3,7 @@
 Nexus Mod Link: <https://www.nexusmods.com/dinkum/mods/349>  
 A simple BepInEx mod for Dinkum that allows to display icons for Pet Animals on Map and Minimap. It's possible to configure which animals to display
 
-**Brief disclaimer: In multiplayer games only the host will see the icons**
+**Brief disclaimer: Due to this mod triggering at the start of the day, the first time you'll load your game it will not work. It will work after you go to bed after loading**
 
 ## Installation
 1. Install [BepInEx 6.0.0-pre.1](https://discord.com/channels/892654052989628436/1060375232642306088/1060375232642306088) using the tool and run the game once
