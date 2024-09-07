@@ -1,7 +1,7 @@
 # Dinkum-AutoHarvestPet
 
 Nexus Mod Link: <https://www.nexusmods.com/dinkum/mods/349>  
-A simple BepInEx mod for Dinkum that allows to display icons for Pet Animals on Map and Minimap. It's possible to configure which animals to display
+Pleep and Vombat now drops Wool and Milk at the start of the day, the same way as Chooks do with eggs
 
 **Brief disclaimer: Due to this mod triggering at the start of the day, the first time you'll load your game it will not work. It will work after you go to bed after loading**
 
