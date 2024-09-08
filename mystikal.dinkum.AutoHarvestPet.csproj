@@ -4,7 +4,7 @@
     <TargetFramework>net472</TargetFramework>
     <AssemblyName>mystikal.dinkum.AutoHarvestPet</AssemblyName>
     <Description>Auto Harvest Pet (automatically drop Wool and Milk on the ground when ready)</Description>
-    <Version>1.0.0</Version>
+    <Version>1.1.0</Version>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <LangVersion>latest</LangVersion>
   </PropertyGroup>
